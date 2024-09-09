@@ -2,6 +2,9 @@
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Description
   To build the back end for an e-commerce site that uses the latest technologies.
+
+  https://github.com/Cbeattie97/E-commerce_db
+  
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
